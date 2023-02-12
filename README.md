@@ -15,14 +15,16 @@
 <body>
   <b> Welcome to verison 0.1 of my site!🥳 </b>
   <h1> It's a bit empty in here, but not for long! </h1>
-  <h3> Today is Day 42 of 2023.  </h3>
-  <h3> </h3>
+  <hr> 
+  <h3> Today is Day 43 of 2023. </h3>
+  <h3> It may look a bit confusing, but take a scroll through! </h3>
  
+ <hr>
   <p> I will be working on developing this site continuously! 
   My goal is to share my progress and hopefully inspire you 
   to create in your preferred medium! </p>
   <h2> Follow along on twitter or instagram @catchsly!✌️🫶</h2> 
-
+<hr>
   <h1>This is an example of Header 1 text </h1>
   <h2> There are h1 to h6 headers. This is h2. </h2>
   <h3> Did you know that when designing there is text know as 
@@ -46,7 +48,11 @@ There is no content within it and does not require a closing tag when used.<br>
 <p>Photo by <a href="https://unsplash.com/@pramodtiwari?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pramod Tiwari</a> on <a href="https://unsplash.com/photos/Wk8N8aDAiMQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </p>
 
-  
+  <p> Looking to add an archive for the sites development. [Day 2] </p> 
+  <ul> Version 0.1 </ul>
+  <ul> the Weird in Between [Coming Soon] </ul>
+  <ul> Shop talk </ul>
+  <ul> Links </ul> 
 
 
 
