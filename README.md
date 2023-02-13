@@ -25,7 +25,7 @@
   to create in your preferred medium! </p>
   <h2> Follow along on twitter or instagram @catchsly!✌️🫶</h2> 
 <hr>
-  <h1>This is an example of Header 1 text </h1>
+ <!-- <h1>This is an example of Header 1 text </h1>
   <h2> There are h1 to h6 headers. This is h2. </h2>
   <h3> Did you know that when designing there is text know as 
     <br>lorem ipsum that acts as placeholders for content on websites!
@@ -40,7 +40,7 @@
    <p> When trying to add spaces or breaks in your text there is a <br> br tag that
   that you can use. The br tag is an example of a <b> void element! </b> <br>
 There is no content within it and does not require a closing tag when used.<br>
-<u>At least not in HTML 5. </u></p>
+<u>At least not in HTML 5. </u></p> -->
 <a href="https://www.youtube.com/watch?v=PlxWf493en4" target="_blank"> this is the resource I used to make this page!<br> </a>
 <br> <i> Thanks for stopping by! <strong> Be Kind and Create!</strong></i>
 <br>
@@ -52,6 +52,7 @@ There is no content within it and does not require a closing tag when used.<br>
   <ul> the Weird in Between [Coming Soon] </ul>
   <ul> Shop talk </ul>
   <ul> Links </ul> 
+  <p> More Styling to Come! </p> 
 
 
 
