@@ -44,8 +44,7 @@ There is no content within it and does not require a closing tag when used.<br>
 <a href="https://www.youtube.com/watch?v=PlxWf493en4" target="_blank"> this is the resource I used to make this page!<br> </a>
 <br> <i> Thanks for stopping by! <strong> Be Kind and Create!</strong></i>
 <br>
-<img src="https://images.unsplash.com/photo-1674545187666-a227aaac127e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80">
-<p>Photo by <a href="https://unsplash.com/@pramodtiwari?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pramod Tiwari</a> on <a href="https://unsplash.com/photos/Wk8N8aDAiMQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+<img src="https://images.pexels.com/photos/8879118/pexels-photo-8879118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 </p>
 
   <p> Looking to add an archive for the sites development. [Day 2] </p> 
