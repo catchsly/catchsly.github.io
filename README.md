@@ -45,7 +45,7 @@ There is no content within it and does not require a closing tag when used.<br>
 <br> <i> Thanks for stopping by! <strong> Be Kind and Create!</strong></i>
 <br>
 <img src="https://images.pexels.com/photos/8879118/pexels-photo-8879118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
-</p>
+<p>💻🤞 </p>
 
   <p> Looking to add an archive for the sites development. [Day 2] </p> 
   <ul> Version 0.1 </ul>
