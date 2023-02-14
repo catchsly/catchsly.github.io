@@ -14,10 +14,10 @@
 </head> --> 
 <body>
   <b> Welcome to verison 0.1 of my site!🥳 </b>
-  <h1> It's a bit empty in here, but not for long! </h1>
+  <h1> Progress is being made! </h1>
   <hr> 
   <h3> Today is Day 44 of 2023. </h3>
-  <h3> It may look a bit confusing, but take a scroll through! </h3>
+  
  
  <hr>
   <p> I will be working on developing this site continuously! 
