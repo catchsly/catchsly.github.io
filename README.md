@@ -16,7 +16,7 @@
   <b> Welcome to verison 0.1 of my site!🥳 </b>
   <h1> It's a bit empty in here, but not for long! </h1>
   <hr> 
-  <h3> Today is Day 43 of 2023. </h3>
+  <h3> Today is Day 44 of 2023. </h3>
   <h3> It may look a bit confusing, but take a scroll through! </h3>
  
  <hr>
@@ -46,13 +46,17 @@ There is no content within it and does not require a closing tag when used.<br>
 <br>
 <img src="https://images.pexels.com/photos/8879118/pexels-photo-8879118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 <p>💻🤞 </p>
-
+<!--
   <p> Looking to add an archive for the sites development. [Day 2] </p> 
   <ul> Version 0.1 </ul>
   <ul> the Weird in Between [Coming Soon] </ul>
   <ul> Shop talk </ul>
   <ul> Links </ul> 
-  <p> More Styling to Come! </p> 
+  <p> More Styling to Come! </p> -->
+  
+  <h2> Day 3 </h2> 
+  
+   
 
 
 
