@@ -44,8 +44,8 @@ There is no content within it and does not require a closing tag when used.<br>
 <a href="https://www.youtube.com/watch?v=PlxWf493en4" target="_blank"> this is the resource I used to make this page!<br> </a>
 <br> <i> Thanks for stopping by! <strong> Be Kind and Create!</strong></i>
 <br>
-<img src="https://images.pexels.com/photos/8879118/pexels-photo-8879118.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
-<p>💻🤞 </p>
+<img src="https://images.pexels.com/photos/15362967/pexels-photo-15362967.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+<h3>💻🤞 <h3>
 <!--
   <p> Looking to add an archive for the sites development. [Day 2] </p> 
   <ul> Version 0.1 </ul>
@@ -55,7 +55,15 @@ There is no content within it and does not require a closing tag when used.<br>
   <p> More Styling to Come! </p> -->
   
   <h2> Day 3 </h2> 
-  
+  <h3> Coding resources: </h3>
+  <bl> LeetCode </bl>
+  <bl> Codepen.io </bl>
+  <bl> hackerrank </bl>
+  <bl> codingame </bl>
+  <bl> code wars </bl>
+  <bl> freecodecamp.org </bl>
+  <bl> youtube.com </bl> 
+    
    
 
 
