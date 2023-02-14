@@ -56,13 +56,15 @@ There is no content within it and does not require a closing tag when used.<br>
   
   <h2> Day 3 </h2> 
   <h3> Coding resources: </h3>
-  <bl> LeetCode </bl>
-  <bl> Codepen.io </bl>
-  <bl> hackerrank </bl>
-  <bl> codingame </bl>
-  <bl> code wars </bl>
-  <bl> freecodecamp.org </bl>
-  <bl> youtube.com </bl> 
+  <ul style="list-style-type:disc;">
+    <li> LeetCode </li>
+    <li> Codepen.io </li>
+    <li> hackerrank </li>
+    <li> codingame </li>
+    <li> code wars </li>
+    <li> freecodecamp.org </li>
+    <li> youtube.com </li> 
+  </ul>
     
    
 
