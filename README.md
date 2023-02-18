@@ -16,7 +16,7 @@
   <b> Welcome to verison 0.1 of my site!🥳 </b>
   <h1> Progress is being made! </h1>
   <hr> 
-  <h3> Today is Day 47 of 2023. </h3>
+  <h3> Today is Day 48 of 2023. </h3>
   
  
  <hr>
@@ -44,7 +44,7 @@ There is no content within it and does not require a closing tag when used.<br>
 <a href="https://www.youtube.com/watch?v=PlxWf493en4" target="_blank"> this is the resource I used to make this page!<br> </a>
 <br> <i> Thanks for stopping by! <strong> Be Kind and Create!</strong></i>
 <br>
-<img src="https://images.pexels.com/photos/13519033/pexels-photo-13519033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+<img src="https://images.pexels.com/photos/1134166/pexels-photo-1134166.jpeg">
 <h3>💻🤞 <h3>
 <!--
   <p> Looking to add an archive for the sites development. [Day 2] </p> 
